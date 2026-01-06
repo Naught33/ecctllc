@@ -1,1 +1,10 @@
-Allow*
+# ================================
+# ECCT Solutions - robots.txt
+# https://www.ecctsolutions.com
+# ================================
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.ecctsolutions.com/sitemap.xml
